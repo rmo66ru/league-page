@@ -48,6 +48,7 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "639486416488841216",
       "name": "Dom",
       "location": "Marshalls", // (optional)
       "bio": "2x Champ (2022, 2023), Known fraud, Got lucky that Damar Hamlin died or Towne would've won in 2022",
