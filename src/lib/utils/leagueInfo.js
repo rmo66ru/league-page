@@ -177,7 +177,7 @@ export const managers = [
       "managerID": "565986071124283392",
       "name": "Rose",
       "location": "The Linc", // (optional)
-      "bio": "League Terrorist, Eagles superfan, Scranton lord"
+      "bio": "League Terrorist, Eagles superfan, Scranton lord",
       "photo": "/managers/rose.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
