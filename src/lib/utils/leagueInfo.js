@@ -276,7 +276,7 @@ export const managers = [
       "philosophy": "Be goated",
       "tradingScale": 2, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    }
   ]
   
   
