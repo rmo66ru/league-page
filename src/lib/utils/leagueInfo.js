@@ -171,6 +171,27 @@ export const managers = [
       "philosophy": "Draft Bijan because hes weird and offer 300 trades that dont make sense and listen to any tweet about any single player",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+    },
+   {
+      "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "648464977245601792",
+      "name": "Iosso",
+      "location": "Purdue", // (optional)
+      "bio": "League OG, Retired Pat hater, ALmost champion if Peter didn't use dark magic"
+      "photo": "/managers/iosso.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+      "rival": {
+        name: "Peter", // Can be anything (usually your rival's name)
+        link: 6, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/peter.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+      },
+      "favoritePlayer": 4984, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "philosophy": "Be goated",
+      "tradingScale": 2, // 1 - 10
+      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     }
   ]
   
