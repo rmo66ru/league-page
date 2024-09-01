@@ -9,6 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>League OGs: Ryan, Dom, Peter, Graz, Gluck, Iosso, Demarco, Vernick, Aaron</p>
   <p>In memory of Ruple, Towne, Skalski, Mannix, Cermak</p>
+  <p>  </p> 
   <p>Winners:</p>
   <p>2019/2020: Peter </p>
   <p>2021: Ryan</p>
