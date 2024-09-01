@@ -177,7 +177,7 @@ export const managers = [
       "managerID": "648464977245601792",
       "name": "Iosso",
       "location": "Purdue", // (optional)
-      "bio": "League OG, Retired Pat hater, ALmost champion if Peter didn't use dark magic"
+      "bio": "League OG, Retired Pat hater, ALmost champion if Peter didn't use dark magic",
       "photo": "/managers/iosso.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
